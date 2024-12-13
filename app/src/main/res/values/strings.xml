@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaxCalc</string>
+    <string name="calcular">Calcular</string>
+    <string name="seu_imposto_de_renda_ser">SEU IMPOSTO DE RENDA SERÁ:</string>
+    <string name="gastos_r">Gastos (R$)</string>
+    <string name="salario_mensal">Salario mensal</string>
+    <string name="sal_rio_r">Salário (R$)</string>
+    <string name="gastos_totais_com_sa_de_e_educa_o">Gastos totais com saúde e educação</string>
+</resources>
